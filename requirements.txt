@@ -1,0 +1,20 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+# --- Core AI Engine ---
+torch
+torchaudio
+torchvision
+faster-whisper
+Cython
+nemo_toolkit[asr]
+cuda-python>=12.3
+# --- Audio Input & Processing ---
+pyaudio
+SpeechRecognition
+sounddevice
+numpy
+librosa
+soundfile
+# --- Utilities ---
+colorama
+openai
+python-dotenv
