@@ -66,4 +66,3 @@ The script will:
 *   **Configuration:** All model and audio processing parameters should be managed in `config.py`.
 *   **Environment Variables:** Sensitive information, such as API keys, should be stored in a `.env` file and loaded using `python-dotenv`.
 *   **Dependencies:** All Python dependencies should be listed in `requirements.txt`.
-# thai_pattern_scam_detection
