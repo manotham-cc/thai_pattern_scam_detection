@@ -100,7 +100,7 @@ When the AI detects high-risk patterns indicating potential fraud, the system tr
 
 *	**Manual Confirmation:** Users can manually confirm to share information or cancel the action
 
-*	**Auto-Share Fail-safe:** If the user does not respond within 10 seconds, the system automatically shares the information
+*	**Auto-Share:** If the user does not respond within 10 seconds, the system automatically shares the information
 
 ![image-5](https://github.com/manotham-cc/thai_pattern_scam_detection/blob/main/demo_images/image-5.png?raw=true)
 ![image-6](https://github.com/manotham-cc/thai_pattern_scam_detection/blob/main/demo_images/image-6.png?raw=true)
