@@ -78,6 +78,9 @@ The live demo features a mobile-simulated interface that showcases the real-time
 
 	Users can configure simulated scenarios in two modes: "Scammer" or "Friend" via the Control Panel. Once selected, the system displays an incoming call status and prepares a simulated conversation on the phone screen.
 
+	![alt text](https://github.com/manotham-cc/thai_pattern_scam_detection/blob/main/demo_images/image-1.png?raw=true)
+
+
 2. **Real-time Monitoring and Analysis**
 
 	The system performs live transcription and risk analysis during conversations, displaying results through a non-intrusive overlay that does not interfere with usage:
