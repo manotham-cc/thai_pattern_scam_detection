@@ -74,7 +74,7 @@ The live demo features a mobile-simulated interface that showcases the real-time
 
 ## Demo Flow Overview
 
-## 1. **Scenario Selection**
+### 1. **Scenario Selection**
 
 Users can configure simulated scenarios in two modes: "Scammer" or "Friend" via the Control Panel. Once selected, the system displays an incoming call status and prepares a simulated conversation on the phone screen.
 
