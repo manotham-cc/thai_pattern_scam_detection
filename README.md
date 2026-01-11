@@ -94,7 +94,7 @@ The live demo features a mobile-simulated interface that showcases the real-time
 
 	*	**Auto-Share Fail-safe:** If the user does not respond within 10 seconds, the system automatically shares the information
 
-4. **Scam Pattern Sharing**
+4. **Scam Pattern Sharing to Blockchain**
 
 	After the conversation ends, the system summarizes the detection rationale for identifying the scam. Users can then share the scam pattern to the Blockchain system to alert others within the Galaxy Call Sense network. This process prioritizes maximum privacy protection:
 
