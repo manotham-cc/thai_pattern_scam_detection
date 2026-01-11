@@ -86,7 +86,7 @@ The live demo features a mobile-simulated interface that showcases the real-time
 		
 	*	**Risk Assessment:** Evaluates and displays risk levels as percentages based on actual conversation context
 
-3. **Scam Alert and Share Live Transcript Feature**
+3. **Scam Alert and Live Transcript Sharing**
 
 	When the AI detects high-risk patterns indicating potential fraud, the system triggers a "Possible Scam Detected" alert and activates the "Share Live Transcript to Your Friends" feature to send the conversation to trusted contacts. This feature operates as follows:
 
@@ -94,7 +94,7 @@ The live demo features a mobile-simulated interface that showcases the real-time
 
 	*	**Auto-Share Fail-safe:** If the user does not respond within 10 seconds, the system automatically shares the information
 
-4. **Share Scam Patterns**
+4. **Scam Pattern Sharing**
 
 	After the conversation ends, the system summarizes the detection rationale for identifying the scam. Users can then share the scam pattern to the Blockchain system to alert others within the Galaxy Call Sense network. This process prioritizes maximum privacy protection:
 
