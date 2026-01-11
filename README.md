@@ -82,6 +82,7 @@ The live demo features a mobile-simulated interface that showcases the real-time
 	![image-2](https://github.com/manotham-cc/thai_pattern_scam_detection/blob/main/demo_images/image-2.png?raw=true)
 
 
+
 3. **Real-time Monitoring and Analysis**
 
 	The system performs live transcription and risk analysis during conversations, displaying results through a non-intrusive overlay that does not interfere with usage:
