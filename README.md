@@ -74,12 +74,12 @@ The live demo features a mobile-simulated interface that showcases the real-time
 
 ## Demo Flow Overview
 
-1. **Scenario Selection**
+## 1. **Scenario Selection**
 
-	Users can configure simulated scenarios in two modes: "Scammer" or "Friend" via the Control Panel. Once selected, the system displays an incoming call status and prepares a simulated conversation on the phone screen.
+Users can configure simulated scenarios in two modes: "Scammer" or "Friend" via the Control Panel. Once selected, the system displays an incoming call status and prepares a simulated conversation on the phone screen.
 
-	![image-1](https://github.com/manotham-cc/thai_pattern_scam_detection/blob/main/demo_images/image-1.png?raw=true)
-	![image-2](https://github.com/manotham-cc/thai_pattern_scam_detection/blob/main/demo_images/image-2.png?raw=true)
+![image-1](https://github.com/manotham-cc/thai_pattern_scam_detection/blob/main/demo_images/image-1.png?raw=true)
+![image-2](https://github.com/manotham-cc/thai_pattern_scam_detection/blob/main/demo_images/image-2.png?raw=true)
 
 
 
