@@ -82,22 +82,22 @@ The live demo features a mobile-simulated interface that showcases the real-time
 
 	The system performs live transcription and risk analysis during conversations, displaying results through a non-intrusive overlay that does not interfere with usage:
 
-		*	**Keyword Detection:** Identifies and highlights suspicious terms such as "lawsuit," "money laundering," and "account number"
+	*	**Keyword Detection:** Identifies and highlights suspicious terms such as "lawsuit," "money laundering," and "account number"
 		
-		*	**Risk Assessment:** Evaluates and displays risk levels as percentages based on actual conversation context
+	*	**Risk Assessment:** Evaluates and displays risk levels as percentages based on actual conversation context
 
 3. **Scam Alert and Fail-safe Mechanism**
 
 	When the AI detects high-risk patterns indicating potential fraud, the system triggers a "Possible Scam Detected" alert and activates the "Share Live Transcript to Your Friends" feature to send the conversation to trusted contacts. This feature operates as follows:
 
-		*	**Manual Confirmation:** Users can manually confirm to share information or cancel the action
+	*	**Manual Confirmation:** Users can manually confirm to share information or cancel the action
 
-		*	**Auto-Share Fail-safe:** If the user does not respond within 10 seconds, the system automatically shares the information
+	*	**Auto-Share Fail-safe:** If the user does not respond within 10 seconds, the system automatically shares the information
 
 4. **Privacy-Preserving Community Reporting**
 
 	After the conversation ends, the system summarizes the detection rationale for identifying the scam. Users can then share the scam pattern to the Blockchain system to alert others within the Galaxy Call Sense network. This process prioritizes maximum privacy protection:
 
-		*	**Data Masking:** The system automatically removes personally identifiable information (PII) and obscures sensitive data (e.g., converting account numbers to xxx-x-xxxxx-x)
+	*	**Data Masking:** The system automatically removes personally identifiable information (PII) and obscures sensitive data (e.g., converting account numbers to xxx-x-xxxxx-x)
 
-		*	**Anonymous Sharing:** Only the "scam pattern" is shared, with no linkage to the user's identity
+	*	**Anonymous Sharing:** Only the "scam pattern" is shared, with no linkage to the user's identity
