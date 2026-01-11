@@ -82,27 +82,37 @@ Users can configure simulated scenarios in two modes: "Scammer" or "Friend" via 
 ![image-2](https://github.com/manotham-cc/thai_pattern_scam_detection/blob/main/demo_images/image-2.png?raw=true)
 
 
+### 2. **Real-time Monitoring and Analysis**
 
-3. **Real-time Monitoring and Analysis**
+The system performs live transcription and risk analysis during conversations, displaying results through a non-intrusive overlay that does not interfere with usage:
 
-	The system performs live transcription and risk analysis during conversations, displaying results through a non-intrusive overlay that does not interfere with usage:
-
-	*	**Keyword Detection:** Identifies and highlights suspicious terms such as "lawsuit," "money laundering," and "account number"
+*	**Keyword Detection:** Identifies and highlights suspicious terms such as "lawsuit," "money laundering," and "account number"
 		
-	*	**Risk Assessment:** Evaluates and displays risk levels as percentages based on actual conversation context
+*	**Risk Assessment:** Evaluates and displays risk levels as percentages based on actual conversation context
 
-4. **Scam Alert and Live Transcript Sharing**
+![image-3](https://github.com/manotham-cc/thai_pattern_scam_detection/blob/main/demo_images/image-3.png?raw=true)
+![image-4](https://github.com/manotham-cc/thai_pattern_scam_detection/blob/main/demo_images/image-4.png?raw=true)
 
-	When the AI detects high-risk patterns indicating potential fraud, the system triggers a "Possible Scam Detected" alert and activates the "Share Live Transcript to Your Friends" feature to send the conversation to trusted contacts. This feature operates as follows:
 
-	*	**Manual Confirmation:** Users can manually confirm to share information or cancel the action
+### 3. **Scam Alert and Live Transcript Sharing**
 
-	*	**Auto-Share Fail-safe:** If the user does not respond within 10 seconds, the system automatically shares the information
+When the AI detects high-risk patterns indicating potential fraud, the system triggers a "Possible Scam Detected" alert and activates the "Share Live Transcript to Your Friends" feature to send the conversation to trusted contacts. This feature operates as follows:
 
-5. **Privacy-Preserving Scam Pattern Sharing on the Blockchain**
+*	**Manual Confirmation:** Users can manually confirm to share information or cancel the action
 
-	After the conversation ends, the system summarizes the detection rationale for identifying the scam. Users can then share the scam pattern to the Blockchain system to alert others within the Galaxy Call Sense network. This process prioritizes maximum privacy protection:
+*	**Auto-Share Fail-safe:** If the user does not respond within 10 seconds, the system automatically shares the information
 
-	*	**Data Masking:** The system automatically removes personally identifiable information (PII) and obscures sensitive data (e.g., converting account numbers to xxx-x-xxxxx-x)
+![image-5](https://github.com/manotham-cc/thai_pattern_scam_detection/blob/main/demo_images/image-5.png?raw=true)
+![image-6](https://github.com/manotham-cc/thai_pattern_scam_detection/blob/main/demo_images/image-6.png?raw=true)
 
-	*	**Anonymous Sharing:** Only the "scam pattern" is shared, with no linkage to the user's identity
+
+### 4. **Privacy-Preserving Scam Pattern Sharing on the Blockchain**
+
+After the conversation ends, the system summarizes the detection rationale for identifying the scam. Users can then share the scam pattern to the Blockchain system to alert others within the Galaxy Call Sense network. This process prioritizes maximum privacy protection:
+
+*	**Data Masking:** The system automatically removes personally identifiable information (PII) and obscures sensitive data (e.g., converting account numbers to xxx-x-xxxxx-x)
+
+*	**Anonymous Sharing:** Only the "scam pattern" is shared, with no linkage to the user's identity
+
+![image-7](https://github.com/manotham-cc/thai_pattern_scam_detection/blob/main/demo_images/image-7.png?raw=true)
+![image-8](https://github.com/manotham-cc/thai_pattern_scam_detection/blob/main/demo_images/image-8.png?raw=true)
