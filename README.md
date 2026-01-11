@@ -108,7 +108,7 @@ When the AI detects high-risk patterns indicating potential fraud, the system tr
 
 ### 4. **Privacy-Preserving Scam Pattern Sharing on the Blockchain**
 
-After the conversation ends, the system summarizes the detection rationale for identifying the scam. Users can then share the scam pattern to the Blockchain system to alert others within the Galaxy Call Sense network. This process prioritizes maximum privacy protection:
+After the call ends, the system summarizes the detection rationale for identifying the scam. Users can then share the scam pattern to the Blockchain system to alert others within the Galaxy Call Sense network. This process prioritizes maximum privacy protection:
 
 *	**Data Masking:** The system automatically removes personally identifiable information (PII) and obscures sensitive data (e.g., converting account numbers to xxx-x-xxxxx-x)
 
